@@ -1,6 +1,6 @@
-### Study visualization
+# Study Visualization (plot)
 
-Prepare for EDA step 
+### Prepare for EDA step 
 
 1. Countplot
 2. Subplot
@@ -13,4 +13,4 @@ Prepare for EDA step
 9. lineplot
 10 scatterplot
 
-# Use public data (https://www.data.go.kr/dataset/15007122/fileData.do)
+##### [Public Data Portal](https://www.data.go.kr/dataset/15007122/fileData.do)
